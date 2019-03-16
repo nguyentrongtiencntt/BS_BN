@@ -29,10 +29,10 @@
         private void InitializeComponent()
         {
             this.btnSave = new System.Windows.Forms.Button();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.textBox4 = new System.Windows.Forms.TextBox();
+            this.txtMaBN = new System.Windows.Forms.TextBox();
+            this.txtCMND = new System.Windows.Forms.TextBox();
+            this.txtTenBN = new System.Windows.Forms.TextBox();
+            this.txtDiachi = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
@@ -49,33 +49,33 @@
             this.btnSave.UseVisualStyleBackColor = true;
             this.btnSave.Click += new System.EventHandler(this.btnSave_Click);
             // 
-            // textBox1
+            // txtMaBN
             // 
-            this.textBox1.Location = new System.Drawing.Point(162, 17);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(111, 20);
-            this.textBox1.TabIndex = 1;
+            this.txtMaBN.Location = new System.Drawing.Point(162, 17);
+            this.txtMaBN.Name = "txtMaBN";
+            this.txtMaBN.Size = new System.Drawing.Size(111, 20);
+            this.txtMaBN.TabIndex = 1;
             // 
-            // textBox2
+            // txtCMND
             // 
-            this.textBox2.Location = new System.Drawing.Point(162, 47);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(111, 20);
-            this.textBox2.TabIndex = 2;
+            this.txtCMND.Location = new System.Drawing.Point(162, 47);
+            this.txtCMND.Name = "txtCMND";
+            this.txtCMND.Size = new System.Drawing.Size(111, 20);
+            this.txtCMND.TabIndex = 2;
             // 
-            // textBox3
+            // txtTenBN
             // 
-            this.textBox3.Location = new System.Drawing.Point(162, 77);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(111, 20);
-            this.textBox3.TabIndex = 3;
+            this.txtTenBN.Location = new System.Drawing.Point(162, 77);
+            this.txtTenBN.Name = "txtTenBN";
+            this.txtTenBN.Size = new System.Drawing.Size(111, 20);
+            this.txtTenBN.TabIndex = 3;
             // 
-            // textBox4
+            // txtDiachi
             // 
-            this.textBox4.Location = new System.Drawing.Point(162, 107);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(111, 20);
-            this.textBox4.TabIndex = 4;
+            this.txtDiachi.Location = new System.Drawing.Point(162, 107);
+            this.txtDiachi.Name = "txtDiachi";
+            this.txtDiachi.Size = new System.Drawing.Size(111, 20);
+            this.txtDiachi.TabIndex = 4;
             // 
             // label1
             // 
@@ -122,10 +122,10 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.textBox4);
-            this.Controls.Add(this.textBox3);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txtDiachi);
+            this.Controls.Add(this.txtTenBN);
+            this.Controls.Add(this.txtCMND);
+            this.Controls.Add(this.txtMaBN);
             this.Controls.Add(this.btnSave);
             this.Name = "Form1";
             this.Text = "Đăng ký khám bệnh!";
@@ -137,10 +137,10 @@
         #endregion
 
         private System.Windows.Forms.Button btnSave;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.TextBox textBox3;
-        private System.Windows.Forms.TextBox textBox4;
+        private System.Windows.Forms.TextBox txtMaBN;
+        private System.Windows.Forms.TextBox txtCMND;
+        private System.Windows.Forms.TextBox txtTenBN;
+        private System.Windows.Forms.TextBox txtDiachi;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;

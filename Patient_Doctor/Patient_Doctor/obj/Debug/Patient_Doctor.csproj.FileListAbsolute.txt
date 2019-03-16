@@ -1,7 +1,11 @@
 T:\BS_BN\Patient_Doctor\Patient_Doctor\bin\Debug\Patient_Doctor.exe.config
 T:\BS_BN\Patient_Doctor\Patient_Doctor\bin\Debug\Patient_Doctor.exe
 T:\BS_BN\Patient_Doctor\Patient_Doctor\bin\Debug\Patient_Doctor.pdb
-T:\BS_BN\Patient_Doctor\Patient_Doctor\obj\Debug\Patient_Doctor.csprojResolveAssemblyReference.cache
+T:\BS_BN\Patient_Doctor\Patient_Doctor\bin\Debug\Apache.NMS.ActiveMQ.dll
+T:\BS_BN\Patient_Doctor\Patient_Doctor\bin\Debug\Apache.NMS.dll
+T:\BS_BN\Patient_Doctor\Patient_Doctor\bin\Debug\Apache.NMS.pdb
+T:\BS_BN\Patient_Doctor\Patient_Doctor\bin\Debug\Apache.NMS.ActiveMQ.pdb
+T:\BS_BN\Patient_Doctor\Patient_Doctor\bin\Debug\Apache.NMS.ActiveMQ.xml
 T:\BS_BN\Patient_Doctor\Patient_Doctor\obj\Debug\Patient_Doctor.Form1.resources
 T:\BS_BN\Patient_Doctor\Patient_Doctor\obj\Debug\Patient_Doctor.Properties.Resources.resources
 T:\BS_BN\Patient_Doctor\Patient_Doctor\obj\Debug\Patient_Doctor.csproj.GenerateResource.Cache
